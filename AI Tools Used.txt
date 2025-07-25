@@ -1,0 +1,21 @@
+AI Tools Used
+
+ChatGPT 
+
+ Purpose of Usage
+
+- Guidance on how to structure the project.
+- Help with setting up the Flask API endpoints.
+- Assistance in writing thread-safe in-memory storage using Python dictionaries and `threading.Lock`.
+- Help drafting clean and readable test cases using `pytest`.
+
+AI-Generated Code Handling
+
+- All AI-generated suggestions were **reviewed, understood, and customized** before use.
+- Some AI code was **modified for clarity, simplicity, and better error handling**.
+- Unnecessary suggestions (e.g., overly verbose comments, over-engineered solutions) were **rejected** to keep the code clean and humanized.
+
+Final Notes
+
+The final implementation reflects my understanding and manual effort, with AI used only as a coding assistant for structure, reference, and review — similar to using Stack Overflow or documentation.
+
